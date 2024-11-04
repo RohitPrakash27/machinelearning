@@ -1,0 +1,3 @@
+Dataset Link for Clustering Algorithms:
+
+https://archive.ics.uci.edu/dataset/292/wholesale+customers.
